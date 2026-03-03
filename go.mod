@@ -13,7 +13,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.11.1
-	github.com/vmware-tanzu/velero v1.18.0-rc.1
+	github.com/vmware-tanzu/velero v1.18.0-rc.2
 	k8s.io/api v0.33.3
 	k8s.io/apimachinery v0.33.3
 	k8s.io/client-go v0.33.3
@@ -81,7 +81,7 @@ require (
 	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/oauth2 v0.33.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/sys v0.40.0 // indirect
 	golang.org/x/term v0.37.0 // indirect
 	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
